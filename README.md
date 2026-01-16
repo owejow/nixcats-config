@@ -1,4 +1,4 @@
-# Neovim Configuraiton Using `nixCats`
+# Neovim Configuration Using `nixCats`
 
 The configuraiton is utilizes [nixCats](https://github.com/BirdeeHub/nixCats-nvim)
 package manager. This package manager utlizes regular lua mechanism for
