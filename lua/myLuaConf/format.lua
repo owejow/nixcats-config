@@ -27,6 +27,7 @@ require("lze").load({
           lua = { "stylua" },
           markdown = { "prettierd" },
           nix = { "nixfmt" },
+          rust = { "rustfmt", lsp_format = "fallback" },
           scss = { "prettierd" },
           shell = { "shellcheck", "shellharden", "shfmt" },
           toml = { "prettierd" },

@@ -178,6 +178,7 @@
               shfmt
               biome
               yamlfmt
+              rustfmt
 
             ];
             neonixdev = {
