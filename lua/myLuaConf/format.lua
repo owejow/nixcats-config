@@ -30,7 +30,7 @@ require("lze").load({
           rust = { "rustfmt", lsp_format = "fallback" },
           scss = { "prettierd" },
           shell = { "shellcheck", "shellharden", "shfmt" },
-          toml = { "prettierd" },
+          toml = { "tombi" },
           typescript = { "prettierd", "biome", timeout_ms = 2000, stop_after_first = true },
           typescriptreact = { "prettierd", "biome", timeout_ms = 2000, stop_after_first = true },
           yaml = { "yamlfmt" },

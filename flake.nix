@@ -143,6 +143,7 @@
               shellcheck
               sqlfluff
               stylelint
+              tombi
               yamllint
               viu
               chafa
